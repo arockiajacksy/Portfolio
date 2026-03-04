@@ -1,9 +1,13 @@
-# My Portfolio
+# Jacksy Portfolio
 
-Hi, I'm Jacks 👋
-
-Welcome to my portfolio repository.
+🌐 Live Website: https://jacksy-sparkling-portfolio.netlify.app/
 
 ## About Me
-- CSE Student
-- Learning Web Development
+CSE Student passionate about development.
+
+## Skills
+- HTML
+- CSS
+- Java
+- Python
+- c
